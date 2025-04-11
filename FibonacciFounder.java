@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class FibonacciFounder {
     
-    public int fibonacci (int limit) {
-        int[] fib = new int[limit];
+    public long fibonacci (int limit) {
+        long[] fib = new long[limit];
         fib[0] = 0;
         fib[1] = 1;
 
