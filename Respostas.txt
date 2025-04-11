@@ -1,0 +1,5 @@
+01) A camada 2 é para a comunicação em uma mesma rede, já a camada 3 serve para rede diferentes. Para a camada 3 os protocolos utilizados são IP, IPsec, ICMP e NAT, ja para a camada 2 é utilizado os protocolos Ethernet, Switch, ATM entre outros.
+
+2) a diferença entre um sistema operacional open source para um que não seja vem na compatibilidade com certos aplicativos que o windows por mais que não seja open source é muito mais utilizado no dia a dia normalmente, tem muitos aplicativos que acabam não rodando ou não tendo uma versão compativel com o obunto, alem do diferencial de preço e segurança, por o obunto ser open source ele não tem custo para a utilização diferente do windows e por ser open source acaba tendo uma segurnaça mais forte, e o window por ser mais comum acaba sendo mais focado para ataque de hackers.
+
+3) Um projeto Open Source é um projeto em que é liberado para que tenham a possibilidade de examinar, arrumar e melhorar o projeto de forma colaborativa com a empresa. Uma empresa que se propoe a utilizar projetos open source pode gerar uma boa visibilidade e uma boa comunicação com o publico alvo pelo envolvimento que teria com o mesmo.
